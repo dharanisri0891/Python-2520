@@ -26,3 +26,13 @@ print(id(student_cgpa))
 print(type(student_name))
 print(type(student_age))
 print(type(student_cgpa))
+
+
+# 11th SEP
+
+# This is only valid if LHS values rae equal with RHS values
+x,y,z = 10,20,30
+print(x)
+print(y)
+print(z)
+

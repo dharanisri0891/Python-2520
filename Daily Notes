@@ -4,4 +4,15 @@
 1) this is the class used to name variables
 2)reserved keywords can't be used as identifiers
 
+# 11th SEP
 
+1) interpolation
+2) Operators ( special symbols that perform operations on variables nad their values)
+3) operators Categorization
+    ---Arithmetic Operators
+    ---Compound Assignment Operators
+    ---Comparsion Operators
+4) Logical Operators
+5) Memebership Operators
+6) Identity Operators
+7) Bitwise Operators
