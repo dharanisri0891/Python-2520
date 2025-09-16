@@ -16,3 +16,16 @@
 5) Memebership Operators
 6) Identity Operators
 7) Bitwise Operators
+
+
+# 16th sep
+
+1) Nested conditions
+2) Nested loops
+3) Branching Statements (JUmp statements)
+   --> break(Helps u to exit loop)
+   --> continue(Helps u to skip the loop)
+   --> pass(acts as a placeholder for doing nothing)
+
+
+
